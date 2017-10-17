@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on My New Hugo Site</title>
+    <title>Articles on 知之为知之，不知为不知，是知也</title>
     <link>https://hyhnotes.github.io/post/</link>
-    <description>Recent content in Articles on My New Hugo Site</description>
+    <description>Recent content in Articles on 知之为知之，不知为不知，是知也</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
@@ -12,12 +12,28 @@
     
     
     <item>
+      <title>Top Readings</title>
+      <link>https://hyhnotes.github.io/blog/2017-10-18-top-readings/</link>
+      <pubDate>Wed, 18 Oct 2017 00:12:54 +0800</pubDate>
+      
+      <guid>https://hyhnotes.github.io/blog/2017-10-18-top-readings/</guid>
+      <description>TAOCP By D.E.Knuth
+Algorithm Design Manual SICP By Harold Abelson and Gerald Sussman with Julie Sussman  https://github.com/sarabander/sicp-pdf
+CTM Concepts, Techniques, and Models of Computer Programming  By Peter Van Roy
+CAAQA Computer Architecture A Quantitative Approach
+Code Completed Programming Language Pragmatics By Michael Scott  http://www.cs.rochester.edu/u/scott/pragmatics/
+Why Programs Fail By Andreas Zeller
+TCP/IP illustrated Unix Networking Programming Fundamentals of Database Systems Readings in Database Systems The Red Book  By Joseph Hellerstein &amp;amp; Michael Stonebraker</description>
+    </item>
+    
+    <item>
       <title>Quotes</title>
       <link>https://hyhnotes.github.io/blog/2017-10-17-quotes/</link>
       <pubDate>Tue, 17 Oct 2017 01:07:23 +0800</pubDate>
       
       <guid>https://hyhnotes.github.io/blog/2017-10-17-quotes/</guid>
-      <description>anything</description>
+      <description> If you can&amp;rsquo;t measure it, you can&amp;rsquo;t improve it. - Peter Drucker
+ </description>
     </item>
     
   </channel>
